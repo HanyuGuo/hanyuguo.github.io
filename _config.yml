@@ -6,7 +6,7 @@ url: "http://example.com" # the base hostname & protocol for your site
 theme_settings:
   # Meta
   title: Hanyu Guo
-  avatar: icon.jpg
+  avatar: VaultBoy.png
   gravatar: # Email MD5 hash
   description: "Hanyu Guo" # used by search engines
 
