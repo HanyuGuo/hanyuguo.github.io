@@ -8,7 +8,7 @@ feature-img: "img/sample_feature_img_2.png"
 
 Hanyu Guo
 
-I am persuing my Master Degree in Clemson University, South Carolina. I am going to graduate on May 2017.
+I am pursuing my Master Degree in Clemson University, South Carolina. I am going to graduate on May 2017.
 
 My research interests involved in artificial intelligence, specifically in deep learning and reinforcement learning. My previous works involved in One-shot learning and NLP.
 
